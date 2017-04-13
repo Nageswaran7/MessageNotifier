@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87233688798",
+    "project_id": "certain-grammar-114513"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87233688798:android:0167f956815b27f5",
+        "android_client_info": {
+          "package_name": "nagesh.com.messagenotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87233688798-km5du7cskaf311gdrdail6ihp2oen8mu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "87233688798-4unkgqaolmt59723dn2c3qbcjq2hp3fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nagesh.com.messagenotifier",
+            "certificate_hash": "7bc16b866e7a5ec84a9997d93e27fdf7a2389bfd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCz_h7Go7ME_8y7k98p354rqiohRy54tI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

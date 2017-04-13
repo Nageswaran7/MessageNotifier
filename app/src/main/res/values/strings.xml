@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">MessageNotifier</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="action_sign_in">Login</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+    <string name="runtime_permissions_txt">Please enable ALL permissions from app settings.</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Email">E-mail</string>
+    <string name="Password">Password</string>
+
+    <!-- Login related strings-->
+    <string name="Log_in">Log in</string>
+    <string name="Log_out">Log out</string>
+    <string name="Log_in_using">Or Login using</string>
+    <string name="Log_in_to_shop_via_email">Log in to shop via email</string>
+    <string name="Dont_have_an_account">Don\'t have an account?</string>
+    <string name="Skip">Skip</string>
+    <string name="Forgot_your_password">Forget your password?</string>
+    <string name="Email_for_recovery">Email for recovery</string>
+    <string name="Reset">Reset</string>
+    <string name="Log_me_in">Log me in</string>
+    <string name="E_MAIL">Google</string>
+    <string name="FACEBOOK">FACEBOOK</string>
+    <string name="Register">Register</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Check_your_email_we_sent_you_an_confirmation_email">Check your email. We sent you an confirmation email about reseting password</string>
+    <string name="Facebook_login_failed">Facebook login failed.</string>
+    <string name="Receiving_facebook_profile_failed">Receiving facebook profile failed</string>
+    <string name="Oops_login_expired">Oops login expired</string>
+    <string name="Your_session_has_expired_Please_log_in_again">Your session has expired Please log in again.</string>
+    <string name="SignIn">  Sign In</string>
+    <!-- Content description strings -->
+    <string name="content_description_open_navigation_drawer">Open navigation drawer</string>
+    <string name="content_description_close_navigation_drawer">Close navigation drawer</string>
+    <string name="content_description_submenu">Populate submenu</string>
+    <string name="content_description_move_right">Move righ</string>
+    <string name="content_description_move_left">Move left</string>
+    <string name="content_description_background">Background</string>
+    <string name="content_description_back_arrow">Back arrow</string>
+    <string name="content_description_intro_screen">Intro screen</string>
+    <string name="content_description_product_image">Product image</string>
+    <string name="content_description_shipping_info">Shipping info</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_notification_preference">Enable E-mail Notification for SMS</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+<string name="notification_summary">Select which Notifications to receive in Mail</string>
+    <string name="pref_title_notification_options">Send Notification For</string>
+    <string-array name="pref_notification_titles">
+        <item>All Incoming SMS</item>
+        <item>Only for My Contacts</item>
+        <item>OTP Messages</item>
+        <item>Bank Messages</item>
+    </string-array>
+    <string-array name="pref_Notification_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+</resources>
